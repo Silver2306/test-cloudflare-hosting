@@ -1,5 +1,7 @@
 # test-cloudflare-hosting
 
+trial commit
+
 A tiny Next.js site (Home, About, Blog + posts, Contact, 404) for learning how to host on Cloudflare.
 It uses a **static export** (`output: "export"`), so `npm run build` produces plain files in `./out`.
 
